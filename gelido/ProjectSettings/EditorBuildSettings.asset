@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/menu.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/GAYme.unity
+    guid: 17ec7760c28e9a2458b6a0eb95f203a6
   m_configObjects: {}
