@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d9cfed78431891c499ed228f7090c892
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Crazy Fever DEMO
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3660cc9e9e52fc24092d8d241f8ac317, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
